@@ -14,5 +14,6 @@ namespace Bitwise
             obj.result();
         }
         //result
+        // changes
     }
 }
