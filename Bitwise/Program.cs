@@ -13,5 +13,6 @@ namespace Bitwise
             AndOperator obj = new AndOperator();
             obj.result();
         }
+        //result
     }
 }
